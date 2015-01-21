@@ -14,6 +14,11 @@ Go to the root dir of your ruby app and run
 ``` 
 gemgrapher
 ```
+This will generate the html in place. Open index.html generated to show an interactive Hierarchical Edge Bundling graph.
+It looks something like this: 
+![Image of graph] 
+(https://i.imgur.com/FRBgTQL.png)
+
 
 ## Contributing
 
